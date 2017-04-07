@@ -1,2 +1,4 @@
-# lhmtech-design-document
-Design documents and wiki
+# Repositories
+||name||host||description||
+|lhmtech-ci-plug|github|ci plugin|
+
